@@ -1,3 +1,4 @@
 ﻿numpy
 scikit-learn
+matplotlib
 
